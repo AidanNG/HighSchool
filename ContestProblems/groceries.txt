@@ -1,0 +1,5 @@
+4
+beans 4
+carrot 12
+apples 10
+milk 15
